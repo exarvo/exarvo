@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 🤝 Connect with me:
 <div align="center">
-<a href="mailto:hoolisankarshana@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="80"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/sankarshanaa/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"/></a> &nbsp;
-<a href="https://medium.com/@hoolisankarshana"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="100px"/></a> &nbsp;
-<a href="https://twitter.com/codedrifts"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="100px"/></a> &nbsp;
-<a href="https://www.codedrifts.com"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" width="100px"/></a> &nbsp;
+<a href="mailto:hoolisankarshana@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="135"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/sankarshanaa/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="170px"/></a> &nbsp;
+<a href="https://medium.com/@hoolisankarshana"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="170px"/></a> &nbsp;
+<a href="https://twitter.com/codedrifts"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="170px"/></a> &nbsp;
+<a href="https://www.codedrifts.com"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" width="170px"/></a> &nbsp;
 <h5>Click badges to open the links</h5>
 </div>
 <br/>
