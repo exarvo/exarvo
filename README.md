@@ -6,6 +6,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://github.com/codedrifts/" target="_blank" rel="noreferrer"><img src="https://github.com/codedrifts/codedrifts/blob/main/assets/myfinal.png" alt="my banner"></a>
 </p>
+<br/> <br/>
+<img style="text-align:center;" height="30em" src="https://visitor-badge.glitch.me/badge?page_id=codedrifts.codedrifts" />
+
 <h2 align="center"> I'm a Software Engineer 💻 | Content Writer ✍️ </h2>
 
 ### 🤝 Connect with me:
@@ -71,6 +74,4 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedrifts&count_private=true&theme=tokyonight&show_icons=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedrifts&theme=tokyonight&layout=compact" />
-  <br/><br/>
-  <img style="text-align:center;" height="30em" src="https://visitor-badge.glitch.me/badge?page_id=codedrifts.codedrifts" />
 </a>
