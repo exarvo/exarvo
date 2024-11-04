@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">:wave: Heyya!</h1>
 <pre align="center">┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-A Computer Science Engineer 💻 | 
+A Computer Science Engineer 💻              |               I also write sometimes 🪶
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛</pre>
 
 <br/>
@@ -22,7 +22,7 @@ A Computer Science Engineer 💻 |
 ## 🛠 &nbsp; My Techs
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,py,react,vite,nextjs,tailwindcss,git,bash,ansible,docker,linux" alt="TypeScript, Node.js, Python, React, Vite, Next.js, Tailwind, Git, Bash, Ansible, Docker, Linux"  title="TypeScript, Node.js, Python, React, Vite, Next.js, Tailwind, Git, Bash, Ansible, Docker, Linux" />
+    <img src="https://skillicons.dev/icons?i=ts,go,py,express,vite,react,nextjs,sqlite,postgres,aws,azure,docker,bash,ansible" alt="TypeScript, Go, Python, Express, Vite, React, Next.js, SQLite, PostgreSQL AWS, Azure, Docker, Bash, Ansible"  title="TypeScript, Go, Python, Express, Vite, React, Next.js, SQLite, PostgreSQL AWS, Azure, Docker, Bash, Ansible" />
   </a>
 </p>
 
