@@ -32,6 +32,6 @@ A Computer Science Engineer 💻 |
   <a href="https://github.com/exarvo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=exarvo&count_private=true&theme=great-gatsby&show_icons=true&hide_rank=true&custom_title=Stats:&count_private=true&hide_border=true&bg_color=0d1117" />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exarvo&theme=great-gatsby&layout=compact&count_private=true&hide_border=true&bg_color=0d1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exarvo&theme=great-gatsby&layout=compact&count_private=false&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
