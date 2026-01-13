@@ -22,7 +22,7 @@ A Computer Science Engineer 💻              |               I also write somet
 ## 🛠 &nbsp; My Techs
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,go,py,express,vite,react,nextjs,tailwind,sqlite,postgres,git,github,aws,azure,terraform,docker,kubernetes,bash,powershell,ansible,tensorflow" alt="TypeScript, Go, Python, Express, Vite, React, Next.js, Tailwind, SQLite, PostgreSQL, AWS, Azure, Terraform, Docker, Bash, Ansible"  title="TypeScript, Go, Python, Express, Vite, React, Next.js, SQLite, PostgreSQL, Git, GitHub, AWS, Azure, Terraform, Docker, Kubernetes, Bash, PowerShell, Ansible, TensorFlow" />
+    <img src="https://skillicons.dev/icons?i=ts,go,py,express,vite,react,nextjs,tailwind,sqlite,postgres,git,github,aws,azure,terraform,docker,kubernetes,bash,powershell,ansible,pytorch,tensorflow" alt="TypeScript, Go, Python, Express, React, Next.js, Tailwind, SQLite, PostgreSQL, AWS, Azure, Terraform, Docker, Bash, Ansible"  title="TypeScript, Go, Python, Express, React, Next.js, SQLite, PostgreSQL, Git, GitHub, AWS, Azure, Terraform, Docker, Kubernetes, Bash, PowerShell, Ansible, Pytorch, TensorFlow" />
   </a>
 </p>
 
