@@ -25,13 +25,3 @@ A Computer Science Engineer 💻              |               I also write somet
     <img src="https://skillicons.dev/icons?i=ts,go,py,express,vite,react,nextjs,tailwind,sqlite,postgres,git,github,aws,azure,terraform,docker,kubernetes,bash,powershell,ansible,pytorch,tensorflow" alt="TypeScript, Go, Python, Express, React, Next.js, Tailwind, SQLite, PostgreSQL, AWS, Azure, Terraform, Docker, Bash, Ansible"  title="TypeScript, Go, Python, Express, React, Next.js, SQLite, PostgreSQL, Git, GitHub, AWS, Azure, Terraform, Docker, Kubernetes, Bash, PowerShell, Ansible, Pytorch, TensorFlow" />
   </a>
 </p>
-
-## 📈 &nbsp; My Stats
-
-<div align="center">
-  <a href="https://github.com/exarvo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=exarvo&count_private=true&theme=great-gatsby&show_icons=true&hide_rank=true&custom_title=Stats:&count_private=true&hide_border=true&bg_color=0d1117" />
-<!--   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -->
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exarvo&theme=great-gatsby&layout=compact&hide_border=true&bg_color=0d1117" /> -->
-  </a>
-</div>
