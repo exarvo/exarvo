@@ -4,7 +4,7 @@
 <a href="https://hooli.sh"><img src="./assets/link-1.svg" alt="Website" width="25%" align="top"></a><a href="https://hooli.sh/projects/"><img src="./assets/link-2.svg" alt="Projects" width="25%" align="top"></a><a href="https://hooli.sh/archive/"><img src="./assets/link-3.svg" alt="Blog" width="25%" align="top"></a><a href="https://x.com/exarvo"><img src="./assets/link-4.svg" alt="X / Twitter" width="25%" align="top"></a>
 <picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/situation.static.svg"><img src="./assets/situation.svg" alt="CLOUD &amp; AI ENGINEER  ·  BENGALURU, INDIA. About me." width="100%" align="top"></picture>
 <img src="./assets/now.svg" alt="Right now: Building Agents and RAG Pipelines with Python; Exploring PyTorch for machine learning; Writing on cloud and DevOps" width="100%" align="top">
-<img src="./assets/record.svg" alt="GitHub stats: 10 followers, 0 stars, 6 PRs merged, 383 contributions" width="100%" align="top">
+<img src="./assets/record.svg" alt="GitHub stats: 10 followers, 0 stars, 6 PRs merged, 385 contributions" width="100%" align="top">
 <picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/city.static.svg"><img src="./assets/city.svg" alt="Contribution city for the last 53 weeks" width="100%" align="top"></picture>
 <img src="./assets/projects.svg" alt="Projects" width="100%" align="top">
 <a href="https://github.com/exarvo/dotfiles"><img src="./assets/project-1.svg" alt="dotfiles. No description yet." width="50%" align="top"></a><a href="https://github.com/exarvo/rag-ado-wiki"><img src="./assets/project-2.svg" alt="rag-ado-wiki. No description yet." width="50%" align="top"></a>
