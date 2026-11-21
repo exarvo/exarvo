@@ -3,7 +3,6 @@
 .bold{font-family:bold,monospace}.mono{font-family:mono,monospace}
 .rv{opacity:0;animation:on .01s forwards}
 .cur{fill:#F59E0B;opacity:0}
-.bl{animation:blink 1.2s linear infinite}
 @keyframes on{to{opacity:1}}
 @keyframes gone{to{opacity:0}}
 @keyframes pulse{50%{opacity:.25}}
@@ -14,7 +13,7 @@
 @keyframes t1{0.00%{transform:translateX(0.0px)}16.67%{transform:translateX(12.0px)}33.33%{transform:translateX(24.0px)}50.00%{transform:translateX(36.0px)}66.67%{transform:translateX(48.0px)}83.33%{transform:translateX(60.0px)}100.00%{transform:translateX(72.0px)}}
 .c2{animation:t2 1.62s steps(1,end) 3.09s forwards,blink 1s linear 2.94s infinite,gone .01s 5.12s forwards}
 .c3{animation:blink 1s linear 5.12s infinite}
-@keyframes t2{0.00%{transform:translateX(0.0px)}5.88%{transform:translateX(12.0px)}11.76%{transform:translateX(24.0px)}17.65%{transform:translateX(36.0px)}23.53%{transform:translateX(48.0px)}29.41%{transform:translateX(60.0px)}35.29%{transform:translateX(72.0px)}41.18%{transform:translateX(84.0px)}47.06%{transform:translateX(96.0px)}52.94%{transform:translateX(108.0px)}58.82%{transform:translateX(120.0px)}64.71%{transform:translateX(132.0px)}70.59%{transform:translateX(144.0px)}76.47%{transform:translateX(156.0px)}82.35%{transform:translateX(168.0px)}88.24%{transform:translateX(180.0px)}94.12%{transform:translateX(192.0px)}100.00%{transform:translateX(204.0px)}}*{animation:none!important}.rv{opacity:1!important}.cur,.bl{opacity:0!important}</style>
+@keyframes t2{0.00%{transform:translateX(0.0px)}5.88%{transform:translateX(12.0px)}11.76%{transform:translateX(24.0px)}17.65%{transform:translateX(36.0px)}23.53%{transform:translateX(48.0px)}29.41%{transform:translateX(60.0px)}35.29%{transform:translateX(72.0px)}41.18%{transform:translateX(84.0px)}47.06%{transform:translateX(96.0px)}52.94%{transform:translateX(108.0px)}58.82%{transform:translateX(120.0px)}64.71%{transform:translateX(132.0px)}70.59%{transform:translateX(144.0px)}76.47%{transform:translateX(156.0px)}82.35%{transform:translateX(168.0px)}88.24%{transform:translateX(180.0px)}94.12%{transform:translateX(192.0px)}100.00%{transform:translateX(204.0px)}}*{animation:none!important}.rv{opacity:1!important}.cur{opacity:0!important}</style>
 <defs>
 <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
 <circle cx="10" cy="10" r=".8" fill="#EDEDED" fill-opacity=".07"/>

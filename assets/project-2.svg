@@ -3,7 +3,6 @@
 .bold{font-family:bold,monospace}.mono{font-family:mono,monospace}
 .rv{opacity:0;animation:on .01s forwards}
 .cur{fill:#F59E0B;opacity:0}
-.bl{animation:blink 1.2s linear infinite}
 @keyframes on{to{opacity:1}}
 @keyframes gone{to{opacity:0}}
 @keyframes pulse{50%{opacity:.25}}
